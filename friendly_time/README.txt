@@ -1,6 +1,6 @@
 Enhanced Friendly Time plugin for Elgg 1.8
-Latest Version: 1.8.1
-Released: 2012-05-10
+Latest Version: 1.8.2
+Released: 2012-05-27
 Contact: iionly@gmx.de
 License: GNU General Public License version 2
 Copyright: (c) Ademola 'PHPlord' Morebise (Original developer) / iionly (for Elgg 1.8)
@@ -21,6 +21,10 @@ Installation:
 
 
 Changlog:
+
+1.8.2:
+
+* French translation added (thank to emanwebdev).
 
 1.8.1:
 
